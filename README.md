@@ -4,7 +4,7 @@ Author - Mister Punch <br>
 Message - Respect Mister Punch
 <br>
 
-git add -->  git commit<br>
+git add . -->  git commit -m "Message"<br>
 
 <br>
 Untracked file<br>
